@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace SuperMarket_Models.Models
 {
+    [Table("tbCoupon")]
     public class Coupon
     {
 
